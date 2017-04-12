@@ -2,7 +2,6 @@
 /* ******** RESET ******** */
 /* *********************** */
 html,
-body {
   padding: 0;
   margin: 0;
   line-height: 1.2;
@@ -187,10 +186,11 @@ button {
 
 .documentation-ressource-heading,
 .documentation-ressource-content {
-  background-color: #e7f0f7;
+  background-color: #005589;
   border: 1px solid #c3d9ec;
 }
 .documentation-ressource-content {
+  background-color: #fff;
   padding: 1em;
   display: none;
 }
@@ -206,7 +206,7 @@ button {
   background-color: #0f6ab4;
 }
 .documentation-ressource-path {
-  color: #000;
+  color: #fff;
   padding-left: 10px;
 }
 .documentation-ressource-heading:hover,
